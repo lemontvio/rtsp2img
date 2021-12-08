@@ -1,0 +1,15 @@
+{
+  "cameraSize": 3,
+  "savePath": "./camera/camera-sn.jpeg",
+  "cameras": [
+    {
+      "url": "rtsp://127.0.0.1:8554/test",
+      "sn": "12345"
+    },
+    {
+      "url": "rtsp://127.0.0.1:8554/test",
+      "sn": "12346"
+    }
+  ]
+
+}
